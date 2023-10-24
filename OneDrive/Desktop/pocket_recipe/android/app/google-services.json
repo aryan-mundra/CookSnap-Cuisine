@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792696491366",
+    "project_id": "pocket-recipe-f4560",
+    "storage_bucket": "pocket-recipe-f4560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792696491366:android:e5ea1dfd55d9e96623cca7",
+        "android_client_info": {
+          "package_name": "com.example.pocket_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792696491366-mogl88osi62dek567q51clj5p23570rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFvGO30OKdYGLlvDiYlK0I-EaKlPkIjy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792696491366-mogl88osi62dek567q51clj5p23570rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
